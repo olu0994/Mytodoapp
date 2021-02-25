@@ -1,0 +1,32 @@
+.main{
+  text-align: center;
+  background-color: #673AB7;
+  margin-top: 30px;
+  position: absolute;
+  left: 400px;
+  width: 500px;
+  border-radius: 10px 10px;
+  padding: 60px;
+  border: 1px solid rgba(0, 0, 0, .2);
+  box-shadow: inset 1px 1px 0 #fff;
+  color: white;
+}
+
+.bottom{
+  background-color: red;
+  color: white;
+}
+
+.middle{
+  margin-bottom: 10px; 
+
+}
+
+.end{
+  margin-bottom: 10px;
+}
+
+.endedit{
+margin-right: 3px;
+margin-left: 50px;
+}
